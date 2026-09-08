@@ -1,0 +1,12 @@
+# Core dependencies
+numpy
+pandas
+scikit-learn
+
+# Optional dependencies (uncomment if needed)
+# matplotlib # For visualization
+# seaborn # For advanced visualizations
+# jupyter # If using notebooks
+# tensorflow # If deep learning support is needed
+# torch # If using PyTorch
+# xgboost # For gradient boosting models
